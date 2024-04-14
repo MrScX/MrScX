@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Mushfiqur Rahman</h1>
-<h3 align="center">I'm a passionate web architect. I have been developing complex web & mobile applications for more than 10+ years. I love building software that has an impact on a large number of people.</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
